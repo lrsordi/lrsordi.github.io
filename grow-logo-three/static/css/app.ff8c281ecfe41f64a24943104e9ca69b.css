@@ -1,0 +1,2 @@
+body{width:100%;height:100%;background-color:#000;color:#fff;margin:0;padding:0;overflow:hidden}#ui{position:absolute;bottom:10px;left:50%;transform:translate(-50%,-50%);text-align:center;font-family:Karla,sans-serif;z-index:1}a#magic-window{display:block;color:#fff;margin-top:1em}canvas,div.noise{position:absolute;top:0;left:0;width:100%;height:100%}div.noise{background:url(/static/textures/noise.png);opacity:.1}
+/*# sourceMappingURL=app.ff8c281ecfe41f64a24943104e9ca69b.css.map */
